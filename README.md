@@ -1,3 +1,6 @@
+# Just learning this.
+
+
 # webpack-4-quickstart
 > Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
 
@@ -12,7 +15,7 @@ npm i && npm run start
 
 ## Meta
 
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
+This is from the Beginner Tutorial by Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
 
 ## License
 
